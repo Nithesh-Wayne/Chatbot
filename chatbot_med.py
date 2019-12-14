@@ -1,3 +1,4 @@
+import numpy
 import nltk
 import numpy as np
 import random
